@@ -1,6 +1,8 @@
 # Test Git Repo
 This is a demo application that does amazing things
 
+# New Line
+
 ## Work with GIT
 1. git checkout main
 2. git pull
